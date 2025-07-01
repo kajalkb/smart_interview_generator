@@ -1,12 +1,10 @@
-# 🧠 Smart Interview Generator
+# Smart Interview Generator
 
 A Streamlit app that uses OpenAI's GPT to generate technical and behavioral interview questions from a candidate's **Resume** or a **Job Description**.
 
-Live Demo: [🤖 Hugging Face Space](https://huggingface.co/spaces/kajalkb/smart-interview-generator)
-
 ---
 
-## 🚀 Features
+## Features
 
 - Upload `.txt`, `.pdf`, or `.docx` resumes or job descriptions
 - Extracts and analyzes text
@@ -15,13 +13,7 @@ Live Demo: [🤖 Hugging Face Space](https://huggingface.co/spaces/kajalkb/smart
 
 ---
 
-## 📷 Screenshots
-
-![screenshot](screenshots/preview.png)
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 - [Streamlit](https://streamlit.io)
 - [OpenAI GPT API](https://platform.openai.com/)
@@ -29,7 +21,7 @@ Live Demo: [🤖 Hugging Face Space](https://huggingface.co/spaces/kajalkb/smart
 
 ---
 
-## 💡 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/kajalkb/smart-interview-generator.git
