@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+langchain-core
+python-docx
+PyPDF2
+pdfplumber
